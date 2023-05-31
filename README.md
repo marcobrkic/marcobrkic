@@ -8,8 +8,6 @@ I’m currently working and improving on my Javascript-, JSReact-, and Backend S
 
 
 
-
-
 ### Languages and Tools:
 
 
