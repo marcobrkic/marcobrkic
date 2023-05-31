@@ -2,7 +2,7 @@
 
 and i have just finished the intensive  1- year course for Webdevelopment of hte Digital Career Institute.
 
-👯 I am currently looking for an **Internship** and/or a job as a **Junior Webdeveloper**.
+👯 I am currently looking for an **Internship** or a job as a **Junior Webdeveloper**.
 
 I’m currently working and improving on my Javascript-, React-, and Backend Skills. 
 
