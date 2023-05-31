@@ -1,8 +1,11 @@
 ### Hi there 👋, i am Marco Brkic.
 
-##-👯 I am currently looking for an **Internship** and/or a job as a **Junior Webdeveloper**.
+👯 I am currently looking for an **Internship** and/or a job as a **Junior Webdeveloper**.
 
-##- 🔭 I’m currently working on my Javascript-, React-, and Backend Skills. 
+I’m currently working on my Javascript-, React-, and Backend Skills. 
+
+
+
 
 
 ### Skills:
