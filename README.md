@@ -17,6 +17,10 @@
 ![mongoose](https://github.com/marcobrkic/marcobrkic/assets/106072451/dce3023f-0cda-4c22-bcbe-ef17ea7c2f23)
 ![sass](https://github.com/marcobrkic/marcobrkic/assets/106072451/45422284-73e0-4062-8fec-69945816c43f)
 
+### Repositories: 
+
+https://github.com/MaNiMa-Final-Project/Frontend
+
 
 <!--
 **marcobrkic/marcobrkic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
