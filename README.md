@@ -20,7 +20,9 @@
 ### Repositories: 
 
 https://github.com/MaNiMa-Final-Project/Frontend
+
 https://github.com/MaNiMa-Final-Project/Backend
+
 https://github.com/Hardcode-PB/pb-final-project-marcobrkic
 
 
