@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Marco Brkic from Düsselorf
 
-and i have just finished the intensive  1- year course for Webdevelopment of hte Digital Career Institute.
+and i have just finished the intensive  1- year course for Webdevelopment of the Digital Career Institute.
 
 👯 I am currently looking for an **Internship** or a job as a **Junior Webdeveloper**.
 
