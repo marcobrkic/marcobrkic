@@ -4,31 +4,23 @@ and i have just finished the intensive  1- year course for Webdevelopment of the
 
 👯 I am currently looking for an **Internship** or a job as a **Junior Webdeveloper**.
 
-I’m currently working and improving on my Javascript-, React-, and Backend Skills. 
+I’m currently working and improving on my Javascript-, JSReact-, and Backend Skills. 
 
 
 
 
 
-### Skills:
+### Languages and Tools:
 
-Linux Bash
 
-HTML5
-
-CSS
-
-CSS Animation
-
-CSS Responsiveness
-
-Flexbox
-
-SASS
-
-REACT JS
-
-Javascript
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 **marcobrkic/marcobrkic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
